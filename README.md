@@ -5,7 +5,7 @@
 > source env/bin/activate
 
 # Install packages
-> python -m pip install ffmpeg faster-whisper ffmpeg-python
+> python -m pip install ffmpeg faster-whisper ffmpeg-python pandas
 
 > ffmpeg -version
 
